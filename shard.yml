@@ -1,0 +1,13 @@
+name: mcannounce
+version: 0.1.0
+
+authors:
+  - David Ellis <david@conquerthelawn.com>
+
+targets:
+  mcannounce:
+    main: src/main.cr
+
+crystal: 0.35.1
+
+license: MIT

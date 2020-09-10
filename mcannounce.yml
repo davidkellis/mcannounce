@@ -1,0 +1,11 @@
+broadcast_ip: 255.255.255.255
+broadcast_port: 4445
+servers:
+  - name: Local Network - Creative
+    port: 25565
+  - name: Local Network - Survival (easy)
+    port: 25566
+  - name: Local Network - Survival (standard)
+    port: 25567
+  - name: Local Network - Survival (hard)
+    port: 25568
